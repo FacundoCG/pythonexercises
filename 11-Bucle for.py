@@ -34,13 +34,13 @@ else:
     print('El email es incorrecto')
 #----------------------------------------------------------------------------
 
-lol = input('Deposite el mail: ')
+mail = input('Deposite el mail: ')
 contador=0
-for c in lol:
+for c in mail:
     if c=="@" or c==".":
         contador=contador+1
     else:
-        contador=0
+        contador+=0
 
 if contador>=2:
     print('El email es correcto')
