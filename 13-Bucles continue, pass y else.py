@@ -16,7 +16,7 @@ print('La cantidad de letras en '+nombre+" son: "+str(c))
 #----------------------------------------------------------------------------
 
 class Miclase:
-    pass   #Para implementar más tarde, la función pass da un valor nulo. Se usa cuando se requisiera una declaración, pero no queremos ejecutar código
+    pass   #Para implementar más tarde, la función pass da un valor nulo. Se usa cuando se quisiera hacer una declaración, pero no queremos ejecutar código
 
 #----------------------------------------------------------------------------
 
