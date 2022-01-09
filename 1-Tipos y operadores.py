@@ -27,6 +27,6 @@ print(nombre2)
 print('Salto de \nlinea')
 #----------------------------------------------------------------------------
 
-a='hola'
-b=2
-print(f'{a}\n{b}')
+variable='hola'
+variable2=2
+print(f'{variable}\n{variable2}')
